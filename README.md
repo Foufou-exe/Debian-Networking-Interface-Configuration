@@ -1,2 +1,2 @@
-# Debian-Networking-Interface-Configuration
+# Networking-Interface-Configuration
 Easy interface configuration Networks
