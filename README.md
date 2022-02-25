@@ -1,6 +1,6 @@
 <center><h1>Networking interface configuration for Linux</h1></center>
 
-<center><img src="https://github.com/Foufou-exe/Networking-Interface-Configuration/blob/main/logo-linux.jpeg?raw=true"></center>
+<center><img src="https://github.com/Foufou-exe/Networking-Interface-Configuration/blob/main/logo-Linux.jpeg?raw=true"></center>
 
 
 ## What is the purpose?
