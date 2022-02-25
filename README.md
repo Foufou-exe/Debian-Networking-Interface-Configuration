@@ -18,7 +18,7 @@ The scripts are compatible only with :
 ### Requirements :
 
 Have installed before :
-``BASH
+```BASH
 apt install git -y
 ```
 
